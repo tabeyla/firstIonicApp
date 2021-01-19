@@ -1,0 +1,7 @@
+{
+  "Get": {
+    "id": "int",
+    "firstname": "string",
+    "lastname": "string"
+  }
+}
